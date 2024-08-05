@@ -5,11 +5,11 @@
 
 ## Secciones 📚
 
-✔️- Mini Introducción
-✔️- Acerca de mi
-✔️- Habilidades
-✔️- Proyectos
-✔️- Contactos
+-✔️ Mini Introducción
+-✔️ Acerca de mi
+-✔️ Habilidades
+-✔️ Proyectos
+-✔️ Contactos
 
 ## Tecnologías usadas 👨‍💻
 | Tecnología | Versión   | Descripción                                                                     |
