@@ -17,6 +17,7 @@
 | HTML       | 5         | Lenguaje de Marcas que define el significado y la estructura del contenido web. |
 | CSS        | 3         | Lenguaje de estilos utilizado para describir la presentación de documentos.     |
 | JavaScript | ES14 2023 | Lenguaje de programación ligero, interpretado, o compilado justo-a-tiempo.      |
+| Bootstrap  | v5.3      | framework de desarrollo web gratuito y de código abierto.                       |
 
 ## Redes sociales 📱
 - YouTube: https://www.youtube.com/@shiloh04/
