@@ -1,9 +1,9 @@
-# <h1> <a href="https://zshiloh.github.io/Portafolio/" target="_blank">Mi Portafolio</a> </h1>
+# <a href="https://zshiloh.github.io/Portafolio/" target="_blank">Mi Portafolio</a>
 <p align="justify">Este sitio web muestra mis proyectos, presencia en la web, Aprendizaje y informacion de contacto.</p>
 
 <img width="100%" alt="Portafolio Screenshot" src="./imagenes/Mi-portafolio.png">
 
-# Secciones 📚
+## Secciones 📚
 
 ✔️ Mini Introducción
 ✔️ Acerca de mi
